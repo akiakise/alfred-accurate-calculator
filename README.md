@@ -49,6 +49,8 @@ Start with command `calc` and expr in the rest.
 
 ![Usage 2](resources/usage-2.png)
 
+![Usage 3](resources/usage-3.png)
+
 ## License
 
 [MIT](LICENSE)
