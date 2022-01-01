@@ -35,11 +35,19 @@ Which means you donot need to care about precision in calculate in most cases.
 
 I have written a Alfred workflow to simplify the steps.
 
-## Usage
+## Install
 
 requirements: python 3 which should be bundled with Mac.
 
 Download the workflow file in release page, and double click it, Alfred will automatically complete the installation progress.
+
+## Usage
+
+Start with command `calc` and expr in the rest.
+
+![Usage 1](resources/usage-1.png)
+
+![Usage 2](resources/usage-2.png)
 
 ## License
 
